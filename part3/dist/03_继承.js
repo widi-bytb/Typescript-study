@@ -1,5 +1,4 @@
 "use strict";
-
 (function () {
     class Animal {
         constructor(name, age) {
